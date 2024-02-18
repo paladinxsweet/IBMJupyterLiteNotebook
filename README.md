@@ -21,5 +21,5 @@
 ![10-objectives](https://github.com/paladinxsweet/IBMJupyterLiteNotebook/assets/94048854/7e2fdfc0-d980-4efa-9c7f-7447c5563f55)
 ### Exercise 11 - Create a markdown cell to indicate the Author's name
 ![11-authordetails](https://github.com/paladinxsweet/IBMJupyterLiteNotebook/assets/94048854/aabb65ba-7308-465b-a593-050b19b7ec15)
-Exercise 12 -Take a screenshot of the first page of the notebook and save it as 1-notebook.png
+### Exercise 12 -Take a screenshot of the first page of the notebook and save it as 1-notebook.png
 ![1-notebook](https://github.com/paladinxsweet/IBMJupyterLiteNotebook/assets/94048854/f4473643-f01f-42ea-a596-837754d98e78)
