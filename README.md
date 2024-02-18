@@ -1,4 +1,5 @@
 # IBMJupyterLiteNotebook
+## Author:Ibrahim Halil Metin
 ### Exercise 1: Create a new Jupyter notebook called DataScienceEcosystem.ipynb
 ![NotebookRename](https://github.com/paladinxsweet/IBMJupyterLiteNotebook/assets/94048854/2c872dc0-51d4-47e2-89f3-f3654c2d7297)
 ### Exercise 2: Create markdown cell with title of the notebook
